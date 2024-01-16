@@ -1,8 +1,8 @@
 # Concoction
 
-Minecraft's Potions are inconvenient, they take up way too much inventory space.
+Minecraft's Potions are inconvenient, they take up way too much inventory space
 
-With Concoction, you can mix Potions or Splash Potions together to a single Potion that has all the effects in a single bottle.
+**With <font color="#DCCE00">Concoction</font>, you can <font color="#DCCE00">mix Potions or Splash Potions</font> together to a single Potion that has <font color="#DCCE00">all the effects in a single bottle</font>**
 
 ![Concoction Item](https://raw.githubusercontent.com/ps-dps/Concoction/main/images/concoction_item.png)
 ![Fighting Concoction](https://raw.githubusercontent.com/ps-dps/Concoction/main/images/fighting_concoction.png)
@@ -12,7 +12,7 @@ With Concoction, you can mix Potions or Splash Potions together to a single Poti
 ![Traversal Concoction](https://raw.githubusercontent.com/ps-dps/Concoction/main/images/traversal_concoction.png)
 
 ## How to Mix
-To mix a Concoction, just place 2 or 3 Potions or Splash Potions in a Brewing Stand and place a Phantom Membrane in the ingredient slot.
+To mix a Concoction, just place 2 or 3 Potions or Splash Potions in a Brewing Stand and place a Phantom Membrane in the ingredient slot
 
 ![Brewing](https://raw.githubusercontent.com/ps-dps/Concoction/main/images/brewing.png)
 
