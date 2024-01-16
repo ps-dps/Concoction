@@ -1,0 +1,20 @@
+name: Concoction
+author: PuckiSilver
+version: v1.0.0
+output: build
+require:
+  - bolt
+
+data_pack:
+  load:
+    - libs/dp/*
+    - src
+  name: Concoction
+  description: Combine multiple Potions into a Concoction
+
+pipeline:
+  - mecha
+  - plugins.remove_empty_functions
+  - plugins.credit
+meta:
+  credit: [psconco]
