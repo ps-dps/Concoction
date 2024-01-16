@@ -2,7 +2,7 @@
 
 Minecraft's Potions are inconvenient, they take up way too much inventory space.
 
-With Concoction, you can mix Potions or Splash Potions together to a single Potion, that has all the effects in a single bottle.
+With Concoction, you can mix Potions or Splash Potions together to a single Potion that has all the effects in a single bottle.
 
 ![Concoction Item](https://raw.githubusercontent.com/ps-dps/Concoction/main/images/concoction_item.png)
 ![Fighting Concoction](https://raw.githubusercontent.com/ps-dps/Concoction/main/images/fighting_concoction.png)
