@@ -23,7 +23,7 @@ To mix a Concoction, just place 2 or 3 Potions or Splash Potions in a Brewing St
 You can configure the pack to your liking, by for example allowing Concoctions to be used in more Concoctions, creating potentially overpowered Potions or making Concoction brewing faster!
 
 For that, type the following into chat (you need op rights):
-```mcfunction
+```
 /function psconco:_/
 ```
 All functions that show up in the TAB completion menu, can and should be used to configure the pack
